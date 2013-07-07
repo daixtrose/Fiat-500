@@ -850,7 +850,7 @@ particulars=STRUCT([fari,maniglie,paratargaRetro,paraurtiS])
 
 //================================== MODEL =====================================
 model=STRUCT([sideA,sideB,retro,fronte,sotto,pneumatics,roof,interns,externs,particulars])
-DRAW(model)
+DRAW(interns)
 //================================== MODEL =====================================
 
 

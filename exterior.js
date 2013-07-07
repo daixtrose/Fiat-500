@@ -849,7 +849,7 @@ interns=STRUCT([sedili,internsSup,steeringW])
 particulars=STRUCT([fari,maniglie,paratargaRetro,paraurtiS])
 
 //================================== MODEL =====================================
-model=STRUCT([sideA,sideB,retro,fronte,sotto,pneumatics,roof,interns,externs,particulars])
+model=STRUCT([sideA,sideB,retro,fronte,sotto,pneumatics,roof,externs,particulars])
 DRAW(model)
 //================================== MODEL =====================================
 
